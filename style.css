@@ -133,3 +133,17 @@ nav a{
 }
 
   }
+
+.hero-buttons{
+    margin-top:30px;
+}
+
+.secondary{
+    background:#fbbf24;
+    color:#000;
+    margin-left:15px;
+}
+
+.secondary:hover{
+    background:#f59e0b;
+    }
